@@ -1,0 +1,7 @@
+[console_scripts]
+Bot_1 = PSO_pkg.Bot_1:main
+Bot_2 = PSO_pkg.Bot_2:main
+Bot_3 = PSO_pkg.Bot_3:main
+Bot_4 = PSO_pkg.Bot_4:main
+Drone = PSO_pkg.Drone:main
+

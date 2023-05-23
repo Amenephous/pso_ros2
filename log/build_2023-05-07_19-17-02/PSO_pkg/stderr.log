@@ -1,0 +1,5 @@
+  File "/home/vboxuser/PSO_final/install/PSO_pkg/lib/python3.8/site-packages/PSO_pkg/Agg.py", line 26
+    global flag = 0
+                ^
+SyntaxError: invalid syntax
+

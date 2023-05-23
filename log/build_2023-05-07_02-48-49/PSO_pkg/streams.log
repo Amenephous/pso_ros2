@@ -1,0 +1,29 @@
+[0.740s] Invoking command in '/home/vboxuser/PSO_final/src/PSO_pkg': PYTHONPATH=/home/vboxuser/PSO_final/build/PSO_pkg/prefix_override:/home/vboxuser/PSO_final/install/PSO_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/PSO_pkg build --build-base /home/vboxuser/PSO_final/build/PSO_pkg/build install --record /home/vboxuser/PSO_final/build/PSO_pkg/install.log --install-scripts $base/lib/PSO_pkg --single-version-externally-managed
+[0.979s] running egg_info
+[0.980s] writing ../../build/PSO_pkg/PSO_pkg.egg-info/PKG-INFO
+[0.980s] writing dependency_links to ../../build/PSO_pkg/PSO_pkg.egg-info/dependency_links.txt
+[0.981s] writing entry points to ../../build/PSO_pkg/PSO_pkg.egg-info/entry_points.txt
+[0.981s] writing requirements to ../../build/PSO_pkg/PSO_pkg.egg-info/requires.txt
+[0.982s] writing top-level names to ../../build/PSO_pkg/PSO_pkg.egg-info/top_level.txt
+[1.022s] reading manifest file '../../build/PSO_pkg/PSO_pkg.egg-info/SOURCES.txt'
+[1.023s] writing manifest file '../../build/PSO_pkg/PSO_pkg.egg-info/SOURCES.txt'
+[1.023s] running build
+[1.024s] running build_py
+[1.025s] copying PSO_pkg/Drone.py -> /home/vboxuser/PSO_final/build/PSO_pkg/build/lib/PSO_pkg
+[1.025s] running install
+[1.026s] running install_lib
+[1.027s] copying /home/vboxuser/PSO_final/build/PSO_pkg/build/lib/PSO_pkg/Drone.py -> /home/vboxuser/PSO_final/install/PSO_pkg/lib/python3.8/site-packages/PSO_pkg
+[1.028s] byte-compiling /home/vboxuser/PSO_final/install/PSO_pkg/lib/python3.8/site-packages/PSO_pkg/Drone.py to Drone.cpython-38.pyc
+[1.030s] running install_data
+[1.031s] running install_egg_info
+[1.033s] removing '/home/vboxuser/PSO_final/install/PSO_pkg/lib/python3.8/site-packages/PSO_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.033s] Copying ../../build/PSO_pkg/PSO_pkg.egg-info to /home/vboxuser/PSO_final/install/PSO_pkg/lib/python3.8/site-packages/PSO_pkg-0.0.0-py3.8.egg-info
+[1.034s] running install_scripts
+[1.054s] Installing Bot_1 script to /home/vboxuser/PSO_final/install/PSO_pkg/lib/PSO_pkg
+[1.054s] Installing Bot_2 script to /home/vboxuser/PSO_final/install/PSO_pkg/lib/PSO_pkg
+[1.055s] Installing Bot_3 script to /home/vboxuser/PSO_final/install/PSO_pkg/lib/PSO_pkg
+[1.055s] Installing Bot_4 script to /home/vboxuser/PSO_final/install/PSO_pkg/lib/PSO_pkg
+[1.056s] Installing Bot_5 script to /home/vboxuser/PSO_final/install/PSO_pkg/lib/PSO_pkg
+[1.056s] Installing Drone script to /home/vboxuser/PSO_final/install/PSO_pkg/lib/PSO_pkg
+[1.057s] writing list of installed files to '/home/vboxuser/PSO_final/build/PSO_pkg/install.log'
+[1.091s] Invoked command in '/home/vboxuser/PSO_final/src/PSO_pkg' returned '0': PYTHONPATH=/home/vboxuser/PSO_final/build/PSO_pkg/prefix_override:/home/vboxuser/PSO_final/install/PSO_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/PSO_pkg build --build-base /home/vboxuser/PSO_final/build/PSO_pkg/build install --record /home/vboxuser/PSO_final/build/PSO_pkg/install.log --install-scripts $base/lib/PSO_pkg --single-version-externally-managed
