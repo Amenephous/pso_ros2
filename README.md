@@ -29,7 +29,7 @@ Follow the steps below to use this repository:
 
 - The PSO algorithm is implemented using Matplotlib in Python.
 - The ROS2 framework is utilized for communication and control.
-- No collision handling is implemented in this version.
+- Collision is ignored in this version.
 
 ## Contributions
 
