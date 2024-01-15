@@ -6,11 +6,23 @@ Implementation of Particle Swarm Optimization (PSO) on ROS2 using Matplotlib in 
 
 ## Usage
 
-To use this repository:
-1. Clone the repository:
+To use this repository, you need to install the following dependencies:
+
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+
+To install them run:
 
     ```bash
-    git clone https://github.com/Your-Username/pso_ros2.git
+    pip install numpy matplotlib
+    ```
+
+
+Follow the steps below to clone this repository:
+
+    ```bash
+    git clone https://github.com/Amenephous/pso_ros2.git
+    cd pso_ros2
     ```
 
 ## Implementation Details
