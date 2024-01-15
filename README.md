@@ -18,7 +18,7 @@ To install them run:
     ```
 
 
-Follow the steps below to clone this repository:
+Follow the steps below to use this repository:
 
     ```bash
     git clone https://github.com/Amenephous/pso_ros2.git
